@@ -7,6 +7,8 @@ We employ different clustering techniques to investigate the relationship betwee
  and neighborhood characteristics. The former was revealed by clustering patronage patterns in Yelp data,
  the latter was shown by clustering neighborhoods by census data.
 
+[Project Report](https://zexihan.com/blog/docs/Project_Report_CS6220.pdf)
+
 ## Folder structure
 
 - **code** - the Jupyter notebooks containing code for data processing and analysis.
